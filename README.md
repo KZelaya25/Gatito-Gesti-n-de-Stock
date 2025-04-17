@@ -1,4 +1,4 @@
-Descripción del Dashboard: Gatito - Gestión de Stock
+Análisis sobre Dashboard: Gatito - Gestión de Stock
 
 1. Propósito del Dashboard:
 El propósito principal de este dashboard es controlar y optimizar la gestión de inventario de productos en la empresa "Gatito". Permite monitorear los movimientos de entrada y salida de stock, identificar productos en riesgo de agotarse, y apoyar la toma de decisiones sobre reposición, compras y planificación operativa.
